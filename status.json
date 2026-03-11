@@ -1,0 +1,35 @@
+{
+  "last_run": "2026-03-11 11:28:04",
+  "balance": 56.8662,
+  "equity": 56.1758,
+  "unrealized_pnl": -0.6904,
+  "positions": 1,
+  "open_positions": [
+    {
+      "symbol": "BTCUSDT",
+      "direction": "long",
+      "amount": 0.008,
+      "entryPrice": 70017.8,
+      "markPrice": 0.0,
+      "unrealizedProfit": -0.69040527,
+      "leverage": 10
+    }
+  ],
+  "mode": "profit-balance",
+  "watchlist": [
+    "BTC",
+    "ETH",
+    "SOL",
+    "XRP",
+    "BNB"
+  ],
+  "top_signal": {
+    "symbol": null,
+    "direction": null,
+    "score": null
+  },
+  "strategy_changes": [],
+  "events": [
+    "position cap reached"
+  ]
+}
